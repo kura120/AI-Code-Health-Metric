@@ -1,7 +1,7 @@
 # Code Health Metric System
 
 A sophisticated tool for evaluating code quality, complexity, and AI detection in software projects.
---# README not completed / correct
+-# README not completed / correct
 ## Features
 
 - Folder Structure Analysis
