@@ -58,11 +58,11 @@ Structure analysis
 Framework usage
 
 ## Contributing
-Fork the repository
-Create your feature branch
-Commit your changes
-Push to the branch
-Create a Pull Request
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
 Authors
 - [@kura120](https://github.com/kura120)
