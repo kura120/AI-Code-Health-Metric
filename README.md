@@ -1,6 +1,7 @@
 # Code Health Metric System
+This was a school project for a research journal competition. I don't feel like submitting my essay and analysis here, so have fun with the project; feel free to do what you want with it. I'm not even sure if I'll ever work on this again
 
-A sophisticated tool for evaluating code quality, complexity, and AI detection in software projects.
+A tool for evaluating code quality, complexity, and AI detection in software projects.
 (README not completed / correct)
 ## Features
 
@@ -51,7 +52,7 @@ Cognitive load
 Function depth
 
 ### AI Detection (0-10)
-Determines likelihood of AI-generated code
+Determines likelihood of AI-generated code (fairly works)
 
 Pattern recognition
 Structure analysis
