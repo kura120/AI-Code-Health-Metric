@@ -13,9 +13,7 @@ A tool for evaluating code quality, complexity, and AI detection in software pro
 
 ## Installation
 
-```bash
-npm install code-health-metric
-```
+Was going to turn this into an NPM package, never did. You could install it locally.
 
 ## Usage
 
