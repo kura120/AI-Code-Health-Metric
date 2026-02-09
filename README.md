@@ -1,5 +1,5 @@
 # Code Health Metric System
-This was a school project for a research journal competition. I don't feel like submitting my essay and analysis here, so have fun with the project; feel free to do what you want with it. I'm not even sure if I'll ever work on this again
+This was a school project for a research journal competition. I know the code is messy and lacking; feel free to do with it as you see fit.
 
 A tool for evaluating code quality, complexity, and AI detection in software projects.
 (README not completed / correct)
